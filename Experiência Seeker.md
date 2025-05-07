@@ -42,7 +42,7 @@ Após abrir e permitir o acesso à localização, a ferramenta **Seeker** exibe:
 
 -Localização do País, Estado e Cidade ( A localização da imagem é do provedor de internet) 
 
--Por fim, meu endereço completo e com endereço pelo maps do google no qual eu tenho a Latitude e Longitude do usuário. 
+-Meu endereço completo e com link de endereço pelo maps do google no qual eu tenho a Latitude e Longitude. 
 
 Considerações Finais:
 

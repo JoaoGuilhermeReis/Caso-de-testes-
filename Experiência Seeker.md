@@ -32,4 +32,12 @@ Após o alvo abrir e permitir o acesso à localização, a ferramenta **Seeker**
 -Localização do País, Estado e Cidade ( A localização da imagem é do provedor de internet) 
 -Por fim, meu endereço completo e com endereço pelo maps do google no qual eu tenho a Latitude e Longitude do usuário. 
 
+Considerações Finais:
+
+Este experimento mostra como ferramentas de engenharia social podem ser usadas para capturar dados sensíveis, mesmo sem interação maliciosa explícita. A lição mais importante é a necessidade de educação digital, tanto para usuários comuns quanto para profissionais de segurança.
+
+
+Este estudo foi realizado em ambiente controlado, com fins educacionais e éticos. Nenhuma informação foi coletada sem consentimento.
+
+
 Espero que tenha gostado da leitura, até a próxima ferramenta! :)

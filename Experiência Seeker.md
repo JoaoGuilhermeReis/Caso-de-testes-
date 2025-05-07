@@ -31,10 +31,15 @@ https://github.com/user-attachments/assets/3529774d-2452-4f92-a462-692531bfd986
 
 Após a permissão, obtive os seguintes dados via terminal:
 Dados obtidos:
+
 -Modelo e versão do dispositivo
+
 -IP público
+
 -País, Estado e Cidade (via IP)
+
 -Latitude e Longitude reais (com link para Google Maps)
+
 -Endereço aproximado do usuário
 
 Considerações Finais

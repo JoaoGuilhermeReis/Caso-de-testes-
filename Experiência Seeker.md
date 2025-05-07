@@ -16,6 +16,7 @@ https://github.com/user-attachments/assets/4f272b5f-2987-4972-9190-60ff59f5da3b
 https://github.com/user-attachments/assets/305960bd-0aa4-4302-9549-bc1989a760c4
 
 **3º Passo**: Ao clicar no link gerado, pude me deparar com esse site no qual informa que o link pode ser malicioso e é apenas para testes, entretanto isso só acontece na versão **free** do grock Não vi motivos para comprar para testes. 
+
 Pude clicar também no botão "**visite site**" na cor azul. 
 
 https://github.com/user-attachments/assets/ae2d573b-164f-4ecf-b67e-0a6b4f9a89a6

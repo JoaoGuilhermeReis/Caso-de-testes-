@@ -34,11 +34,14 @@ https://github.com/user-attachments/assets/63ecc0fe-cf42-42c2-bd0b-66d0e2604ea6
 
 https://github.com/user-attachments/assets/3529774d-2452-4f92-a462-692531bfd986
 
-Após o alvo abrir e permitir o acesso à localização, a ferramenta **Seeker** exibe:
+Após abrir e permitir o acesso à localização, a ferramenta **Seeker** exibe:
 
 -Saber o modelo e versão do aparelho
+
 -Ip publico
+
 -Localização do País, Estado e Cidade ( A localização da imagem é do provedor de internet) 
+
 -Por fim, meu endereço completo e com endereço pelo maps do google no qual eu tenho a Latitude e Longitude do usuário. 
 
 Considerações Finais:

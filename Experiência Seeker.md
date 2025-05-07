@@ -1,4 +1,4 @@
-# Inicialização com Ngrok:
+#  Estudo prático com Seeker + Ngrok (Geolocalização via Engenharia Social)
 
 python3 seeker.py
 Pra que serve: 

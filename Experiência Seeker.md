@@ -2,7 +2,6 @@
 
 ##  Inicialização com Ngrok
 
-```bash
 python3 seeker.py
 
 Pra que serve: 

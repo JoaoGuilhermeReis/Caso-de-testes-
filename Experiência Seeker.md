@@ -4,6 +4,7 @@ python3 seeker.py
 Pra que serve: 
 Envio do link gerado para o alvo de teste e obtenha dados de **geolocalização** ao clicar no link.
 Abaixo vou descrever o que aconteceu: 
+
 **1º Passo**: O usuario (eu) abri o seeker no kali linux e gerei um **link**, tive que escolher entre **https** ou **porta 8080**.
 
 https://github.com/user-attachments/assets/e0acd60e-f6ac-4144-9d23-363437c446db

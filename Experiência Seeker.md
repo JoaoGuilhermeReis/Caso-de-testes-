@@ -30,7 +30,9 @@ https://github.com/user-attachments/assets/ae2d573b-164f-4ecf-b67e-0a6b4f9a89a6
 https://github.com/user-attachments/assets/c5afb6c6-54c6-4840-9164-291990971d62
 
 **5º Passo**: Ao clicar em "Continue", o site solicitou permissão de acesso à localização. Um usuário leigo provavelmente clicaria em "Permitir", expondo minha posição.
+
 https://github.com/user-attachments/assets/bb80b143-c57b-4ca8-a30c-45933238ac5c
+
 https://github.com/user-attachments/assets/63ecc0fe-cf42-42c2-bd0b-66d0e2604ea6
 
 **6º Passo**: Coleta de informações com sucesso

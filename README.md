@@ -7,6 +7,7 @@ Este repositório tem como objetivo documentar um estudo **ético e educacional*
 - [Seeker](https://github.com/thewhiteh4t/seeker): script que cria páginas falsas para capturar a localização GPS de alvos que permitem o acesso ao navegador.
 - Ngrok: túnel HTTP para tornar o serviço acessível via internet pública.
 - Google Maps: visualização de coordenadas.
+- Wereshark: Analise de trafego de pacotes
 
 ##  Ambiente de Testes
 - O teste foi realizado em ambiente controlado, sem fins maliciosos, apenas utilizei meu Iphone XR.

@@ -6,6 +6,8 @@ python3 seeker.py
 
 Pra que serve: 
 Envio do link gerado para o alvo de teste e obtenha dados de **geolocalização** ao clicar no link.
+
+
 Abaixo vou descrever o que aconteceu: 
 
 

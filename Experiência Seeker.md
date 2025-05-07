@@ -25,7 +25,8 @@ https://github.com/user-attachments/assets/c5afb6c6-54c6-4840-9164-291990971d62
 
 **5º Passo**: Ao clicar no "**Continue**" eu pude me deparar com a seguinte tela de **permissão de localização**, no qual uma pessoa leiga pode apertar em permitir e deixar o hacker descobrir sua localização. 
 
-https://github.com/user-attachments/assets/bb80b143-c57b-4ca8-a30c-45933238ac5c
+https://github.com/user-attachments/assets/92ca1064-8edc-4327-8a3e-f55dd264c882
+
 
 https://github.com/user-attachments/assets/63ecc0fe-cf42-42c2-bd0b-66d0e2604ea6
 

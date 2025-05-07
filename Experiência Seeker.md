@@ -9,6 +9,7 @@ Envio do link gerado para o alvo de teste e obtenha dados de **geolocalização*
 Abaixo vou descrever o que aconteceu: 
 **1º Passo**: Iniciei o Seeker no Kali Linux, onde precisei escolher entre a opção https (via Ngrok) ou porta 8080.
 https://github.com/user-attachments/assets/e0acd60e-f6ac-4144-9d23-363437c446db
+
 **2º Passo**: Escolhi a opção https (via Ngrok) e compartilhei o link comigo mesmo via WhatsApp. O link usado foi o de Forwarding HTTPS gerado pelo Ngrok.
 
 https://github.com/user-attachments/assets/4f272b5f-2987-4972-9190-60ff59f5da3b

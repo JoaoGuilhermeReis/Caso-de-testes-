@@ -1,0 +1,74 @@
+# Análise de Tráfego com Wireshark
+
+**Objetivo:**
+
+O objetivo deste experimento foi utilizar o Wireshark para capturar e analisar pacotes de rede em um ambiente controlado. A intenção foi observar dados trafegando entre uma máquina "vítima" acessando sites via HTTP e um atacante passivamente monitorando a rede.
+
+**Ambiente de Testes:**
+
+-Máquina **Atacante**:
+
+-SO: Kali Linux
+
+-Ferramenta usada: Wireshark
+
+-IP: 10.0.2.20
+
+-Máquina **Vítima**:
+
+-SO: Kali Linux
+
+-Navegador: Firefox
+
+-IP: 10.0.2.15
+
+-Configuração de rede: Ambas as VMs conectadas na mesma rede NAT.
+
+**Ferramentas Utilizadas**
+
+-Wireshark – ferramenta de captura e análise de pacotes de rede.
+
+-Navegador Web – utilizado na máquina da vítima para gerar tráfego HTTP.
+
+-Site usado: http://neverssl.com (HTTP puro para facilitar a captura sem criptografia).
+
+**Procedimento**
+
+Instalação do Wireshark:
+
+Na máquina **atacante**:
+
+sudo apt update
+
+sudo apt install wireshark -y
+
+sudo usermod -aG wireshark $USER
+
+Após a instalação, a máquina foi reiniciada para aplicar as permissões ao grupo wireshark.
+
+**Iniciando a Captura**
+
+-Wireshark foi aberto com o comando:
+
+wireshark
+
+A interface de rede eth0 foi selecionada para monitorar o tráfego.
+
+A captura foi iniciada e, em paralelo, a vítima realizou o acesso ao site http://neverssl.com.
+
+-Ação da **Vítima**:
+
+Na máquina da vítima:
+
+Foi acessado o site http://neverssl.com.
+
+Interações como clicar em links e simular preenchimento de formulários foram realizadas.
+
+**Filtro aplicado no Wireshark**
+
+Para visualizar os pacotes HTTP da vítima, foi usado o filtro:
+
+http && ip.addr == 10.0.2.15
+
+**Resultados**
+
